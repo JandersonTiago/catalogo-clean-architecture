@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Catalogo.API/Catalogo.API.csproj" />
+  <Project Path="Catalogo.Application/Catalogo.Application.csproj" />
+  <Project Path="Catalogo.CrosCutting/Catalogo.CrossCutting.csproj" />
+  <Project Path="Catalogo.Domain/Catalogo.Domain.csproj" />
+  <Project Path="Catalogo.Infrastructure/Catalogo.Infrastructure.csproj" />
+</Solution>
